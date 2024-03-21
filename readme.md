@@ -22,5 +22,5 @@ https://www.invoicegenerator.me/
 
 ## Report Feature Request,Bugs and Reviews
 
-[Documentation](https://linktodocumentation)
+[Report here](https://github.com/prasath95/Invoice-Generator-.Me/issues/1)
 
